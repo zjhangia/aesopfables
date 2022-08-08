@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(204, 232, 207);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin: 30px;
+}
+
+h3 {
+    text-align: left;
+    margin: 40px 30%;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
